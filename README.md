@@ -1,1 +1,1 @@
-All marketing resources are downloaded from yahoo and HK stocks.
+My space for python training.
